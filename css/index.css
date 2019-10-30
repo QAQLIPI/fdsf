@@ -1,0 +1,11 @@
+
+p{
+    width: 200px;
+    height: 60px;
+    border: 2px solid black;
+    text-align: center;
+    line-height: 9;
+}
+span{
+    font-size: 30px;
+}
